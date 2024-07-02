@@ -1,0 +1,7 @@
+['DM8HA' 'Date.Local' 'relative_humidity_max' 'air_temperature_min'
+ 'precipitation' 'air_temperature_max' 'wind_direction' 'solar_radiation'
+ 'relative_humidity_min' 'wind_speed' 'elevation' 'CO' 'NH3' 'NOX' 'SO2'
+ 'VOC' 'PM25-PRI' 'PM10-PRI' 'population_density_county' 'open_water'
+ 'developed' 'bareRock_sand_clay' 'd_forest' 'e_forest' 'm_forest' 'shrub'
+ 'grassland' 'pasture' 'crops' 'w_wetlands' 'eh_wetlands' 'cmaq'
+ 'Latitude' 'Longitude']
